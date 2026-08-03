@@ -114,6 +114,8 @@ python3 -m streamlit run app.py
 sportamath-lab
 ├── app.py
 ├── README.md
+├── requirements.txt
+├── USER_TESTING_PLAN.md
 └── screenshots
     ├── project-overview.png
     ├── race-challenge-mode.png
