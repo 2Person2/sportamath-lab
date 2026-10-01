@@ -4,9 +4,13 @@ SportaMath Lab is an interactive educational app that teaches math through sport
 
 The project helps middle and high school students understand abstract math concepts by connecting them to real sports decisions, including race pacing, basketball shot selection, probability, expected value, simulation, and optimization.
 
+## Latest Update
+
+v2.5 reorganizes the app into bite-sized lessons after user testing feedback. The app now includes a guided learning path, progress tracking, lesson checkpoints, and completion buttons.
+
 ## Current Version
 
-**v2.0 — Complete Two-Module Demo**
+**v2.5 — Bite-Sized Lessons + Progress Tracking**
 
 ## Project Mission
 
